@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="textView_A">A:</string>
+    <string name="editText_A">Введите число A</string>
+    <string name="textView_B">B:</string>
+    <string name="editText_B">Введите число B</string>
+
+    <string name="textView_result">Результат:</string>
+
+    <string name="button_add">Сложить</string>
+    <string name="button_subtract">Вычесть</string>
+    <string name="button_multiply">Умножить</string>
+    <string name="button_divide">Поделить</string>
+
+    <string name="button_sqrt">sqrt(A)</string>
+    <string name="button_pow">pow(A, B)</string>
+    <string name="button_ln">ln(A)</string>
+
+    <string name="button_sin">sin(A)</string>
+    <string name="button_cos">cos(A)</string>
+    <string name="button_tan">tan(A)</string>
+
+    <string name="button_Pi">Pi</string>
+
+    <string name="textView_FIO">Лухшейдер Герман 303</string>
+
+</resources>
